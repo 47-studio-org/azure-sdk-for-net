@@ -17,7 +17,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/js-yaml": "3.11.2",
-    "@types/mocha": "5.2.5",
+    "@types/mocha": "9.1.1",
     "@types/node": "10.12.19",
     "@types/semver": "5.5.0",
     "mocha": "5.2.0",

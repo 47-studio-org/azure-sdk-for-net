@@ -26,7 +26,7 @@
     "tslint-language-service-ts3": "1.0.0",
     "tslint-microsoft-contrib": "^5.2.1",
     "tslint-sonarts": "^1.8.0",
-    "typescript": "^3.1.3"
+    "typescript": "^4.7.4"
   },
   "dependencies": {
     "@microsoft.azure/autorest-extension-base": "^1.0.0",
